@@ -1,4 +1,4 @@
-# Django Food Management Web App API Endpoints
+# Django Calorie Tracker Web App API Endpoints
 
 ## Index
 
