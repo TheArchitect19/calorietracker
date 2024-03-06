@@ -25,7 +25,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     # Local
-    'foodtracker',
+    'calorietracker',
 ]
 
 MIDDLEWARE = [
@@ -73,7 +73,7 @@ DATABASES = {
     }
 }
 
-AUTH_USER_MODEL = 'foodtracker.User'
+AUTH_USER_MODEL = 'calorietracker.User'
 
 
 # Password validation
